@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: plain.bst
+Database file #1: reference.bib
+Warning--can't use both author and editor fields in Chopra2007
+You've used 11 entries,
+            2118 wiz_defined-function locations,
+            563 strings with 5712 characters,
+and the built_in function-call counts, 3273 in all, are:
+= -- 300
+> -- 173
+< -- 1
++ -- 68
+- -- 56
+* -- 194
+:= -- 567
+add.period$ -- 35
+call.type$ -- 11
+change.case$ -- 52
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 141
+empty$ -- 263
+format.name$ -- 56
+if$ -- 690
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 21
+newline$ -- 58
+num.names$ -- 22
+pop$ -- 92
+preamble$ -- 1
+purify$ -- 50
+quote$ -- 0
+skip$ -- 85
+stack$ -- 0
+substring$ -- 109
+swap$ -- 21
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 1
+while$ -- 26
+width$ -- 13
+write$ -- 119
+(There was 1 warning)
